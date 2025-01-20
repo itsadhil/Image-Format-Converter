@@ -1,5 +1,3 @@
-Here’s a sample `README.md` file for your Image Format Converter Python application. It includes an overview of the application, installation instructions, usage details, and other important information.
-
 
 # Image Format Converter
 
